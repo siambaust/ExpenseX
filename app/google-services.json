@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1086540463394",
+    "firebase_url": "https://chatx-ad4cd-default-rtdb.firebaseio.com",
+    "project_id": "chatx-ad4cd",
+    "storage_bucket": "chatx-ad4cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086540463394:android:0ace191ba8b4ce7de9797b",
+        "android_client_info": {
+          "package_name": "com.example.expensex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogok0_ZePNV9HkIc7Lelh73e9HZlOQB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
